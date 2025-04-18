@@ -1,0 +1,20 @@
+project_name: msc
+
+release:
+  github:
+    owner: minminseo
+    name: md-sup-cli
+
+builds:
+  - main: ./main.go
+    binary: msc
+    goos:
+      - linux
+      - darwin
+      - windows
+    goarch:
+      - amd64
+      - arm64
+
+archives:
+  - format: tar.gz
