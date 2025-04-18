@@ -1,16 +1,7 @@
 # Downloads
+
 ## バイナリ
-### macOS (Intel)
-[Download tar.gz](https://github.com/minminseo/md-sup-cli/releases/download/v1.0.0/msc_Darwin_x86_64.tar.gz)
-
-### macOS (Apple Silicon)
-[Download tar.gz](https://github.com/minminseo/md-sup-cli/releases/download/v1.0.0/msc_Darwin_arm64.tar.gz)
-
-### Linux
-[Download tar.gz](https://github.com/minminseo/md-sup-cli/releases/download/v1.0.0/msc_Linux_x86_64.tar.gz)
-
-### Windows
-[Download zip](https://github.com/minminseo/md-sup-cli/releases/download/v1.0.0/msc_Windows_x86_64.zip)
+[https://github.com/minminseo/md-sup-cli/releases](https://github.com/minminseo/md-sup-cli/releases/ "")
 
 ## Goがインストールされている場合
 ```
