@@ -13,7 +13,7 @@ var linkCmd = &cobra.Command{
 	Args:  cobra.ExactArgs(1),
 	RunE: func(cmd *cobra.Command, args []string) error {
 		path := args[0]
-		snippet := "[タイトル](URL \"\")\n"
+		snippet := "[タイトル](URL/ \"\")\n"
 		f, err := os.OpenFile(path, os.O_APPEND|os.O_WRONLY, 0644)
 		if err != nil {
 			return err
